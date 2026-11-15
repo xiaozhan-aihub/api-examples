@@ -1,0 +1,11 @@
+{
+  "name": "aihub-node-examples",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "chat": "node chat.mjs"
+  },
+  "dependencies": {
+    "openai": "^4.70.0"
+  }
+}
