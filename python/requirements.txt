@@ -1,4 +1,4 @@
-openai>=1.40
+openai>=1.66
 anthropic>=0.40
 google-genai>=1.0
 requests>=2.31
