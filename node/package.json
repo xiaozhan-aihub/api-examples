@@ -3,9 +3,14 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "chat": "node chat.mjs"
+    "chat": "node chat.mjs",
+    "image": "node image.mjs",
+    "video": "node video.mjs",
+    "ai-sdk": "node ai_sdk.mjs"
   },
   "dependencies": {
+    "@ai-sdk/openai-compatible": "^1.0.0",
+    "ai": "^5.0.0",
     "openai": "^4.70.0"
   }
 }
